@@ -29,11 +29,13 @@ x           "Hello"                 String                  Now holds a string
 x           3.14                    Float                   Now holds a float"""
 
 """Variable Naming Rules:
-1. Must start with a letter (a-z, A-Z) or an underscore (_)."""
-"""2. Can contain letters, digits (0-9), and underscores after the first character."""
-"""3. Cannot be a reserved keyword in Python (like if, for, while, etc.)."""
-"""4. Case-sensitive (e.g., myVar and myvar are different variables)."""
-"""5. Should be descriptive to make the code more readable (e.g., use 'age' instead of 'a')."""
+1. Must start with a letter (a-z, A-Z) or an underscore (_).
+2. Can contain letters, digits (0-9), and underscores after the first character.
+3. Cannot be a reserved keyword in Python (like if, for, while, etc.).
+4. Case-sensitive (e.g., myVar and myvar are different variables).
+5. Should be descriptive to make the code more readable (e.g., use 'age' instead of 'a').
+6. Cannot contain spaces or special characters (like !, @, #, $, %, etc.).
+7. variable names meaningful and avoid single-letter names except for counters or iterators."""
 
 
 
