@@ -6,9 +6,9 @@
 
 #Assignment: You create a variable by using the assignment operator (=).
 
-x = 10  # Here, 'x' is a variable that holds the integer value 10
-name = "Alice"  # 'name' is a variable that holds the string "Alice"
-pi = 3.14  # 'pi' is a variable that holds the float value 3.14
+#x = 10  # Here, 'x' is a variable that holds the integer value 10
+#name = "Alice"  # 'name' is a variable that holds the string "Alice"
+#pi = 3.14  # 'pi' is a variable that holds the float value 3.14
 
 
 """Dynamic Typing: Python is dynamically typed. 
@@ -39,11 +39,20 @@ x           3.14                    Float                   Now holds a float"""
 
 
 
-age = 25  # Good variable name
-Age = 30  # Different variable due to case sensitivity
+#age = 25  # Good variable name
+#Age = 30  # Different variable due to case sensitivity
 #1_name = "Bob"  # Invalid: starts with a digit
-_1_name = "David"  # Valid: starts with an underscore
-first-name = "Charlie"  # Invalid: contains a hyphen
+#_1_name = "David"  # Valid: starts with an underscore
+#first-name = "Charlie"  # Invalid: contains a hyphen
+
+
+#print('don't')
+#print('don\'t')
+#print("don't")     
+#print("He said, \"Hello!\"")
+#print("dont")
+#print('ravi ranjan')
+
 
 
 
